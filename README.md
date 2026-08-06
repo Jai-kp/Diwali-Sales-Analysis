@@ -4,7 +4,7 @@
 This project explores and analyzes Diwali sales data using Python, pandas, matplotlib, and seaborn. The analysis covers demographics, purchasing power, product categories, and key insights to help understand customer behavior and business opportunities during the Diwali festival sales period.
 
 ## Dataset
-- **File**: `Diwali Sales Data.csv`
+- **File**: `Diwali_Sales_Data.csv`
 - **Rows**: 11,251
 - **Columns**: 15 (after cleaning: 13)
 - **Features**: User_ID, Cust_name, Product_ID, Gender, Age Group, Age, Marital_Status, State, Zone, Occupation, Product_Category, Orders, Amount
@@ -59,6 +59,6 @@ This project explores and analyzes Diwali sales data using Python, pandas, matpl
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-2. Run the notebook: `EDA_Diwali Sales Analysis.ipynb`
+2. Run the notebook: `EDA Diwali Sales Analysis.ipynb`
 
 
